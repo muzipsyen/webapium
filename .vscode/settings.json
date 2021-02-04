@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/75e3a9ef-7582-43f0-94c3-33d196433266/resourceGroups/AZ204-03.02.2021/providers/Microsoft.Web/sites/webapium",
+    "appService.deploySubpath": "."
+}
